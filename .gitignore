@@ -5,9 +5,10 @@
 
 .env
 
-mongo/
+/mongo
 postgres/
 node_modules/
 dist/
 build/
 coverage/
+.DS_Store
